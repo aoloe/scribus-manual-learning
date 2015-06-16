@@ -6,6 +6,7 @@
 - just a few .md files with different types of content?
 - or by language?
 - one directory with lot of yaml files?
+- one directory per category?
 
 ## Handbooks
 
