@@ -1,5 +1,12 @@
 # Notes
 
+## Collecting resources
+
+- creating one directory with yaml files per resource seems a bit overkill...
+- just a few .md files with different types of content?
+- or by language?
+- one directory with lot of yaml files?
+
 ## Handbooks
 
 ### English
