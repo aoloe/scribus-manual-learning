@@ -22,4 +22,6 @@
 
 ### Spanish
 
+- [Scribus 1.4, manual de iniciación](http://www.menosmedia.org/spip.php?article64)
+
 ## Tutorials
